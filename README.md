@@ -1,4 +1,4 @@
-# Résumé du Projet d'Analyse des Séries Temporelles
+# Projet d'Analyse des Séries Temporelles
 
 ## Présentation du Projet
 
@@ -31,3 +31,6 @@ Ce projet se concentre sur la prédiction des séries temporelles en utilisant d
 - Techniques de prévision des séries temporelles : ARIMA, Prophet, LSTM, GRU, Stacking Regressor
 
 ## Auteurs
+- [Alisa Chekalina](https://github.com/chekalisa)
+- [Lia Gasparin](https://github.com/LiaGasparin)
+- [Carmen Cristea](https://github.com/CarmenParis)
